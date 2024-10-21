@@ -12,7 +12,7 @@ detect_os() {
 }
 
 # URL repository GitHub
-REPO_URL="https://github.com/username/repository.git"
+REPO_URL="https://github.com/Indogroup/telebot.git"
 FRAMEWORK_DIR="framework"
 
 # Cek apakah git sudah terinstal
